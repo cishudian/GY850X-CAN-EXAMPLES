@@ -1,0 +1,153 @@
+[Workspace Header]
+Version = 801
+Pathname = "/c/Documents and Settings/dragon/桌面/CAN 1.00/1.cws"
+CVI Dir = "/d/program files/national instruments/cvi80"
+IVI Standard Root Dir = "/C/Program Files/IVI"
+VXIplug&play Framework Dir = "/c/vxipnp/winnt"
+Number of Projects = 1
+Active Project = 1
+Project 0001 = "1.prj"
+Drag Bar Left = 160
+Window Top = 31
+Window Left = 22
+Window Bottom = 533
+Window Right = 812
+Maximized = True
+Maximized Children = True
+Max Number Of Errors = 20
+Track Include File Dependencies = True
+Prompt For Missing Includes = True
+Stop On First Error File = False
+Bring Up Err Win For Warnings = True
+Show Build Dialog = False
+Save Changes Before Running = "Always"
+Hide Windows = False
+Global Hot Key = False
+Break At First Statement = False
+Sort Type = "File Name"
+Number of Opened Files = 4
+Window Confinement Region Enabled = True
+MainColumnWidth = 141
+FileDateColumnWidth = 70
+FileSizeColumnWidth = 70
+StatusColumnWidth = 70
+
+[Project Header 0001]
+Version = 801
+Don't Update DistKit = False
+Platform Code = 4
+Build Configuration = "Release"
+Warn User If Debugging Release = 0
+Batch Build Release = False
+Batch Build Debug = False
+Force Rebuild = False
+
+[File 0001]
+Path = "/c/Documents and Settings/dragon/桌面/CAN 1.00/cu.c"
+File Type = "CSource"
+Disk Date = 3332370174
+In Projects = "1,"
+Window Top = 32
+Window Left = 6
+Window Z-Order = 2
+Source Window State = "1,106,106,106,20,52,52,0,0,89,0,0,0,0,0,25,39,0,48,52,323,564,1,0,"
+
+[File 0002]
+Path = "/c/Documents and Settings/dragon/桌面/CAN 1.00/cu.uir"
+File Type = "User Interface Resource"
+Disk Date = 3332369919
+In Projects = "1,"
+Window Top = 32
+Window Left = 6
+Window Height = 323
+Window Width = 564
+Window Z-Order = 1
+
+[File 0003]
+Path = "/c/Documents and Settings/dragon/桌面/CAN 1.00/ControlCAN.h"
+File Type = "Include"
+Disk Date = 3332293958
+In Projects = "1,"
+Window Top = 62
+Window Left = 22
+Source Window State = "1,76,76,76,12,19,19,0,0,0,0,0,0,0,0,0,50,0,82,47,323,564,1,0,"
+
+[File 0004]
+Path = "/c/Documents and Settings/dragon/桌面/CAN 1.00/cu.h"
+File Type = "Include"
+Disk Date = 3332369919
+In Projects = "1,"
+Window Top = 32
+Window Left = 6
+Source Window State = "1,16,16,16,0,43,43,0,0,0,0,0,0,0,0,0,16,0,54,21,323,564,1,0,"
+
+[File 0005]
+Path = "/c/Documents and Settings/dragon/桌面/CAN 1.00/SiUSBXp.dll"
+File Type = "DLL"
+Disk Date = 3255567104
+In Projects = "1,"
+
+[File 0006]
+Path = "/c/Documents and Settings/dragon/桌面/CAN 1.00/VCI_CAN.dll"
+File Type = "DLL"
+Disk Date = 3323236306
+In Projects = "1,"
+
+[File 0007]
+Path = "/c/Documents and Settings/dragon/桌面/CAN 1.00/VCI_CAN.lib"
+File Type = "Library"
+Disk Date = 3323236306
+In Projects = "1,"
+
+[File 0008]
+Path = "/e/ly/Lab Windows/串口调试助手  7.19/C.c"
+File Type = "CSource"
+Disk Date = 3330910282
+In Projects = ""
+Window Top = 33
+Window Left = 6
+Window Z-Order = 4
+Source Window State = "1,0,0,0,0,0,0,0,0,80,0,0,0,0,0,25,3,0,19,74,323,510,1,0,"
+
+[File 0009]
+Path = "/e/ly/Lab Windows/串口调试助手   接收陀螺数据    7.20/C.c"
+File Type = "CSource"
+Disk Date = 3330924152
+In Projects = ""
+Window Top = 64
+Window Left = 22
+Window Z-Order = 3
+Source Window State = "1,143,143,143,13,69,69,0,0,80,0,0,0,0,0,25,123,0,146,51,323,510,1,0,"
+
+[Build Options 0001]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Debugging Level = "Standard"
+Break On Library Errors = True
+Break On First Chance Exceptions = False
+Execution Target Address = "Local desktop computer"
+Execution Target Port = 0
+Execution Target Type = 0
+
+[SCC Options 0001]
+Use global settings = True
+SCC Provider = ""
+SCC Project = ""
+Local Path = ""
+Auxiliary Path = ""
+Perform Same Action For .h File As For .uir File = "Ask"
+Username = ""
+Comment = ""
+Use Default Username = False
+Use Default Comment = False
+Suppress CVI Error Messages = False
+
+[DLL Debugging Support 0001]
+External Process Path = ""
+
+[DLLs Used By Executable 0001]
+DLL 0001 = "/C/Documents and Settings/dragon/桌面/CAN 1.00/VCI_CAN.dll"
+
+[Command Line Args 0001]
+Command Line Args = ""
+

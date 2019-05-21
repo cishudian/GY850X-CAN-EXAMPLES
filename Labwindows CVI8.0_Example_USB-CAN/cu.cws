@@ -1,0 +1,92 @@
+[Workspace Header]
+Version = 801
+Pathname = "/c/Documents and Settings/dragon/×ÀÃæ/CAN 1.00/cu.cws"
+CVI Dir = "/d/program files/national instruments/cvi80"
+IVI Standard Root Dir = "/C/Program Files/IVI"
+VXIplug&play Framework Dir = "/c/vxipnp/winnt"
+Number of Projects = 1
+Active Project = 1
+Project 0001 = "cu.prj"
+Drag Bar Left = 160
+Window Top = 31
+Window Left = 22
+Window Bottom = 533
+Window Right = 812
+Maximized = True
+Maximized Children = True
+Max Number Of Errors = 20
+Track Include File Dependencies = True
+Prompt For Missing Includes = True
+Stop On First Error File = False
+Bring Up Err Win For Warnings = True
+Show Build Dialog = False
+Save Changes Before Running = "Always"
+Hide Windows = False
+Global Hot Key = False
+Break At First Statement = False
+Sort Type = "File Name"
+Number of Opened Files = 2
+Window Confinement Region Enabled = True
+MainColumnWidth = 141
+FileDateColumnWidth = 70
+FileSizeColumnWidth = 70
+StatusColumnWidth = 70
+
+[Project Header 0001]
+Version = 801
+Don't Update DistKit = False
+Platform Code = 4
+Build Configuration = "Debug"
+Warn User If Debugging Release = 1
+Batch Build Release = False
+Batch Build Debug = False
+Force Rebuild = False
+
+[File 0001]
+Path = "/c/Documents and Settings/dragon/×ÀÃæ/CAN 1.00/cu.uir"
+File Type = "User Interface Resource"
+Disk Date = 3332295595
+In Projects = "1,"
+Window Top = 32
+Window Left = 6
+Window Height = 323
+Window Width = 564
+Window Z-Order = 2
+
+[File 0002]
+Path = "/c/Documents and Settings/dragon/×ÀÃæ/CAN 1.00/cu.c"
+File Type = "CSource"
+Disk Date = 3332336395
+In Projects = "1,"
+Window Z-Order = 1
+Source Window State = "1,0,0,0,0,0,0,0,0,161,0,0,0,0,0,46,69,0,34,42,0,0,0,0,"
+
+[Build Options 0001]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Debugging Level = "Standard"
+Break On Library Errors = True
+Break On First Chance Exceptions = False
+Execution Target Address = "Local desktop computer"
+Execution Target Port = 0
+Execution Target Type = 0
+
+[SCC Options 0001]
+Use global settings = True
+SCC Provider = ""
+SCC Project = ""
+Local Path = ""
+Auxiliary Path = ""
+Perform Same Action For .h File As For .uir File = "Ask"
+Username = ""
+Comment = ""
+Use Default Username = False
+Use Default Comment = False
+Suppress CVI Error Messages = False
+
+[DLL Debugging Support 0001]
+External Process Path = ""
+
+[Command Line Args 0001]
+Command Line Args = ""
+

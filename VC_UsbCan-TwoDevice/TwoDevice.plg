@@ -1,0 +1,50 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: TwoDevice - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating command line "rc.exe /l 0x804 /fo"Debug/TwoDevice.res" /d "_DEBUG" /d "_AFXDLL" "E:\项目\CANTools软件\CAN卡光盘-V6.0\Example\VC_UsbCan-TwoDevice\TwoDevice.rc"" 
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP836.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /Fp"Debug/TwoDevice.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"E:\项目\CANTools软件\CAN卡光盘-V6.0\Example\VC_UsbCan-TwoDevice\TwoDevice.cpp"
+"E:\项目\CANTools软件\CAN卡光盘-V6.0\Example\VC_UsbCan-TwoDevice\TwoDeviceDlg.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP836.tmp" 
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP837.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /Fp"Debug/TwoDevice.pch" /Yc"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"E:\项目\CANTools软件\CAN卡光盘-V6.0\Example\VC_UsbCan-TwoDevice\StdAfx.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP837.tmp" 
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP838.tmp" with contents
+[
+/nologo /subsystem:windows /incremental:yes /pdb:"Debug/TwoDevice.pdb" /debug /machine:I386 /out:"Debug/TwoDevice.exe" /pdbtype:sept 
+".\Debug\StdAfx.obj"
+".\Debug\TwoDevice.obj"
+".\Debug\TwoDeviceDlg.obj"
+".\Debug\TwoDevice.res"
+".\VCI_CAN.lib"
+]
+Creating command line "link.exe @C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP838.tmp"
+<h3>Output Window</h3>
+Compiling resources...
+Compiling...
+StdAfx.cpp
+Compiling...
+TwoDevice.cpp
+TwoDeviceDlg.cpp
+E:\项目\CANTools软件\CAN卡光盘-V6.0\Example\VC_UsbCan-TwoDevice\TwoDeviceDlg.cpp(208) : warning C4018: '<' : signed/unsigned mismatch
+Generating Code...
+Linking...
+
+
+
+<h3>Results</h3>
+TwoDevice.exe - 0 error(s), 1 warning(s)
+</pre>
+</body>
+</html>
